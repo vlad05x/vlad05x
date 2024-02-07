@@ -4,6 +4,7 @@
 - React.js
 - JavaScript
 - HTML5, CSS3, SCSS
+- Figma
 - Git, GitHub
 
 💡 Open to cooperation and new projects. Constantly looking for opportunities to improve my knowledge and skills. Inspired by technological challenges and strive to create innovative solutions.
